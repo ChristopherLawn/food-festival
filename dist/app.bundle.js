@@ -33,9 +33,9 @@ eval("/*!\n  * Bootstrap v4.6.1 (https://getbootstrap.com/)\n  * Copyright 2011-
 /*!***********************************!*\
   !*** ./assets/img/food-table.jpg ***!
   \***********************************/
-/***/ (() => {
+/***/ ((module) => {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nTypeError: Cannot read properties of undefined (reading 'imageWebpackLoader')\\n    at Object.exports.getLoaderConfig (C:\\\\Users\\\\chris\\\\code\\\\VirtualClassWorkingFolder\\\\projects\\\\food-festival\\\\node_modules\\\\image-webpack-loader\\\\node_modules\\\\loader-utils\\\\index.js:124:37)\\n    at Object.module.exports (C:\\\\Users\\\\chris\\\\code\\\\VirtualClassWorkingFolder\\\\projects\\\\food-festival\\\\node_modules\\\\image-webpack-loader\\\\index.js:9:28)\");\n\n//# sourceURL=webpack://food-festival/./assets/img/food-table.jpg?");
+eval("module.exports = \"assets/img/food-table.jpg\";\n\n//# sourceURL=webpack://food-festival/./assets/img/food-table.jpg?");
 
 /***/ }),
 
@@ -43,9 +43,9 @@ eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-l
 /*!******************************!*\
   !*** ./assets/img/grill.jpg ***!
   \******************************/
-/***/ (() => {
+/***/ ((module) => {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nTypeError: Cannot read properties of undefined (reading 'imageWebpackLoader')\\n    at Object.exports.getLoaderConfig (C:\\\\Users\\\\chris\\\\code\\\\VirtualClassWorkingFolder\\\\projects\\\\food-festival\\\\node_modules\\\\image-webpack-loader\\\\node_modules\\\\loader-utils\\\\index.js:124:37)\\n    at Object.module.exports (C:\\\\Users\\\\chris\\\\code\\\\VirtualClassWorkingFolder\\\\projects\\\\food-festival\\\\node_modules\\\\image-webpack-loader\\\\index.js:9:28)\");\n\n//# sourceURL=webpack://food-festival/./assets/img/grill.jpg?");
+eval("module.exports = \"assets/img/grill.jpg\";\n\n//# sourceURL=webpack://food-festival/./assets/img/grill.jpg?");
 
 /***/ }),
 
