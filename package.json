@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@popperjs/core": "^2.11.4",
+    "bootstrap": "^4.3.1",
+    "init": "^0.1.2",
+    "popper": "^1.0.1",
+    "save": "^2.4.0"
+  }
+}
