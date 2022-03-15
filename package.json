@@ -3,7 +3,9 @@
     "@popperjs/core": "^2.11.4",
     "bootstrap": "^4.3.1",
     "init": "^0.1.2",
+    "jquery": "^3.6.0",
     "popper": "^1.0.1",
+    "popper.js": "^1.16.0",
     "save": "^2.4.0"
   },
   "name": "food-festival",
@@ -16,7 +18,9 @@
     "webpack-cli": "^4.9.2"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "webpack": "webpack --watch",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
